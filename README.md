@@ -1,0 +1,1 @@
+# smarthome_media_msgs_java-release
