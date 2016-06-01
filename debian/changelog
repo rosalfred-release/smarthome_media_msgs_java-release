@@ -1,0 +1,52 @@
+ros-indigo-smarthome-media-msgs-java (0.1.81-0trusty) trusty; urgency=high
+
+  * Change package generation with genjava
+  * Contributors: Erwan Le Huitouze
+
+ -- Mickaël Gaillard <mick.gaillard@gmail.com>  Tue, 31 May 2016 22:00:00 -0000
+
+ros-indigo-smarthome-media-msgs-java (0.1.79-0trusty) trusty; urgency=high
+
+  * Add license
+  * Update package file description
+  * Contributors: Erwan Le Huitouze
+
+ -- Mickaël Gaillard <mick.gaillard@gmail.com>  Sat, 28 May 2016 22:00:00 -0000
+
+ros-indigo-smarthome-media-msgs-java (0.1.71-0trusty) trusty; urgency=high
+
+  * Apply new package architecture
+  * Contributors: Erwan Le Huitouze
+
+ -- Mickaël Gaillard <mick.gaillard@gmail.com>  Sat, 07 Nov 2015 23:00:00 -0000
+
+ros-indigo-smarthome-media-msgs-java (0.1.70-0trusty) trusty; urgency=high
+
+  * Fix Cmake file
+  * Contributors: Erwan Le Huitouze
+
+ -- Mickaël Gaillard <mick.gaillard@gmail.com>  Thu, 22 Oct 2015 21:06:00 -0000
+
+ros-indigo-smarthome-media-msgs-java (0.1.69-0trusty) trusty; urgency=high
+
+  * Update gradle group name
+  * Contributors: Erwan Le Huitouze
+
+ -- Mickaël Gaillard <mick.gaillard@gmail.com>  Thu, 22 Oct 2015 21:01:00 -0000
+
+ros-indigo-smarthome-media-msgs-java (0.1.19-0trusty) trusty; urgency=high
+
+  * Merge branch 'master' of ssh://git.tactfactory.com:2222/projetx/media-msgs-java
+  * Clean git
+  * Contributors: Erwan Le Huitouze
+
+ -- Mickaël Gaillard <mick.gaillard@gmail.com>  Sun, 03 May 2015 22:00:00 -0000
+
+ros-indigo-smarthome-media-msgs-java (0.1.9-0trusty) trusty; urgency=high
+
+  * Add package
+  * Contributors: Erwan Le Huitouze
+
+ -- Mickaël Gaillard <mick.gaillard@gmail.com>  Sun, 03 May 2015 10:01:00 -0000
+
+
