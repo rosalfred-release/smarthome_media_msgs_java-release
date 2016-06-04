@@ -13,7 +13,7 @@ find_package(catkin REQUIRED genjava smarthome_media_msgs)
 
 generate_rosjava_messages(
   PACKAGES
-  smarthome_media_msgs
+    smarthome_media_msgs
 )
 
 catkin_package()
